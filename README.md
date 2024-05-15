@@ -8,7 +8,7 @@
 
 •	Implemented bookmarks for streamlined access to specific records, enhancing user experience and efficiency.
 
-#Visuals
+# Visuals
 
 ![Byass 1](https://github.com/Surjendud4/Maven-Market-Store-Retail-Shop-/assets/168835348/a3ad52d7-5f3e-4ec9-a697-57ccbd4774c4)
 ![Byass 2](https://github.com/Surjendud4/Maven-Market-Store-Retail-Shop-/assets/168835348/965e6e6d-b09f-4b8b-9ef0-4f106e35c0d1)
